@@ -1,6 +1,6 @@
 # Starter Web Repo Project
 
-This repository is for showing how Git and GitHub work
+This is a simple website project for learning how to use  Git and Github.
 
 ## Introduction
 
@@ -8,4 +8,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Deplyment
+## Deployment
