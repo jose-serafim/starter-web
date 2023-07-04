@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alberto Souza	alberto@coisas.pt	986156
 
 # THANKS
 
