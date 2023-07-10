@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2023 José Serafim
+2023 José Serafim. All rights reserved.
